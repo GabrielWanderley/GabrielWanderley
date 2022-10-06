@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente sou front-end mas com interesse em ser fullstack
 - 🌱 estudando React
-- 📫 contateme gabrielwanderley08@gmail.com
+- 📫 email de contato gabrielwanderley08@gmail.com
 
 <div align="center">
   <a href="https://github.com/GabrielWanderley">
