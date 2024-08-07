@@ -1,8 +1,7 @@
 ### olá!! sou Gabriel Wanderley
 
 
-- 🔭 Atualmente sou front-end mas com interesse em ser fullstack
-- 🌱 estudando React
+- 🔭 desenvolvedor front-end mas migrando para um full stack 
 - 📫 email de contato gabrielwanderley08@gmail.com
 
 
