@@ -1,4 +1,4 @@
-## olá[Wave](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif) !!! sou Gabriel Wanderley
+## olá ![xau](https://github.com/user-attachments/assets/bcfa795d-c4d5-4302-be94-2e416f7bed32) !!! sou Gabriel Wanderley
 
 
 - 🔭 desenvolvedor front-end mas migrando para um full stack 
