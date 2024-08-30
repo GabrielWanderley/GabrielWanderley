@@ -2,14 +2,15 @@
 
 
 - 🔭 desenvolvedor front-end mas migrando para um full stack 
-- 📫 email de contato gabrielwanderley08@gmail.com
+- 📫 email de contato [gabrielwanderley08@gmail.com](gabrielwanderley08@gmail.com) 
+
 ### Tecnologias
 
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-- TypeScript
-- Next
-- C#
-- .Net
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
 <div style="display: flex, align-itens: center">
