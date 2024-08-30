@@ -1,4 +1,4 @@
-## olá!! sou Gabriel Wanderley
+## olá 👋!! sou Gabriel Wanderley
 
 
 - 🔭 desenvolvedor front-end mas migrando para um full stack 
@@ -14,5 +14,8 @@
   
   <a href="https://www.linkedin.com/in/gabriel-wanderley-600b24234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+## 📊 Minhas Estatísticas no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
  
