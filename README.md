@@ -1,4 +1,4 @@
-# olá  <img src="https://github.com/user-attachments/assets/bcfa795d-c4d5-4302-be94-2e416f7bed32" alt="xau" width="30" height="30" />!!! sou Gabriel Wanderley
+# olá  <img src="https://github.com/user-attachments/assets/bcfa795d-c4d5-4302-be94-2e416f7bed32" alt="xau" width="30" height="30" />!! sou Gabriel Wanderley
 
 
 - 🔭 desenvolvedor front-end mas migrando para um full stack 
