@@ -1,9 +1,15 @@
-### olá!! sou Gabriel Wanderley
+## olá!! sou Gabriel Wanderley
 
 
 - 🔭 desenvolvedor front-end mas migrando para um full stack 
 - 📫 email de contato gabrielwanderley08@gmail.com
+### Tecnologias
 
+- React
+- TypeScript
+- Next
+- C#
+- .Net
 
 
 <div style="display: flex, align-itens: center">
