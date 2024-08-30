@@ -5,7 +5,7 @@
 - 📫 email de contato gabrielwanderley08@gmail.com
 ### Tecnologias
 
-- React
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 - TypeScript
 - Next
 - C#
