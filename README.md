@@ -16,6 +16,6 @@
  
 ## 📊 Minhas Estatísticas no GitHub
 
-> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielWanderley&show_icons=true&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielWanderley&show_icons=true&theme=radical)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWanderley&layout=compact&theme=radical)
  
